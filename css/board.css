@@ -1,6 +1,6 @@
 #board-info #board-info-profile-img {
 	border-radius: 5em;
-	border: 1px solid rgb(254, 188, 216);
+	border: 1px solid #e0ccff;
 }
 
 #board-info h1 .badge {
@@ -8,7 +8,7 @@
 }
 
 #board-info h1{
-border-bottom:1px solid rgb(254, 188, 216);
+border-bottom:1px solid #e0ccff;
 }
 
 
