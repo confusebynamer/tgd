@@ -13,5 +13,5 @@
 // 게시판 상주 인원 표시 그림
 #board-info #viewers-area .fa-user:before {
     color: rgba(0,0,0,0);
-    content: url(https://wlswnwlswnbot.github.io/tgd/images/viewers_icon.png)
+    content: url(https://wlswnwlswnbot.github.io/tgd/viewers_icon.png)
 }
