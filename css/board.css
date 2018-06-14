@@ -1,0 +1,27 @@
+#board-info #board-info-profile-img {
+border-radius:5em
+border : 1px solid #febcd8
+}
+
+
+#board-info h1 .badge {
+    background-color: #febcd8
+}
+
+#board-info h1{
+border-bottom:1px solid #febcd8
+}
+
+/*
+#article-list #article-list-category {
+{
+background:#febcd8
+}
+
+#article-list #article-list-category>a
+{
+background: #ffe7f1;
+font-size: 13px;
+}
+
+*/
