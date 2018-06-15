@@ -15,6 +15,11 @@
 #article-list #article-list-category
 {
 	background:rgb(224, 204, 255);
+	border-bottom: 2px solid #6242ad;
+}
+
+#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover {
+    background-color: #ffe7f1;
 }
 
 	/*
