@@ -3,9 +3,9 @@
     content: url(https://wlswnwlswnbot.github.io/tgd/images/viewers_icon.png);
 }
 
-#board-info #viewers-area
-{
-color:rgb(0,0,0);
+#board-info #viewers-area{
+    color:rgb(0,0,0);
+    padding-top: 4px;
 }
 
 #board-info h1 .badge {
