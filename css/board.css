@@ -22,6 +22,11 @@
     background-color: #ffe7f1;
 }
 
+.pagination>li>a:hover {
+    background-color: rgb(224, 204, 255);
+    color: #fff
+}
+
 	/*
 #article-list #article-list-category>a
 {
