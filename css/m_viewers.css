@@ -1,0 +1,13 @@
+﻿#board-info #viewers-area .fa-user:before {
+    color: rgba(0,0,0,0);
+    content: url(https://wlswnwlswnbot.github.io/tgd/images/viewers_icon.png);
+}
+
+#board-info #viewers-area
+{
+color:rgb(0,0,0);
+}
+
+#board-info h1 .badge {
+    background-color: #6441a5;
+}
