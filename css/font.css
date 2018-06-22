@@ -18,16 +18,16 @@ font-family:'GyeonggiBatang',sans-serif;
 font-size:15px;
 }*/
 
-/*눈누 상업허용폰트 한수원 한울림체*/
+/*눈누 상업허용폰트 sn별별정직*/
 @font-face { 
-  font-family: 'KHNPHU'; 
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KHNPHU.woff') format('woff'); 
+  font-family: 'snByulByul'; 
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.6/snByulByul.woff') format('woff'); 
   font-weight: normal; 
   font-style: normal; 
 }
 
 body,html{
 height:auto !important;
-font-family:'KHNPHU',sans-serif;
+font-family:'snByulByul',sans-serif;
 font-size:15px;
 }
