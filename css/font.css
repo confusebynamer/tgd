@@ -20,14 +20,14 @@ font-size:15px;
 
 /*눈누 상업허용폰트 sn별별정직*/
 @font-face { 
-  font-family: 'snByulByul'; 
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.6/snByulByul.woff') format('woff'); 
+  font-family: 'Bright'; 
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.4/Bright.woff') format('woff'); 
   font-weight: normal; 
   font-style: normal; 
 }
 
 body,html{
 height:auto !important;
-font-family:'snByulByul',sans-serif;
+font-family:'Bright',sans-serif;
 font-size:15px;
 }
