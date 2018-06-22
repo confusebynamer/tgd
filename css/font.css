@@ -1,4 +1,5 @@
 /*눈누 상업허용폰트 경기 바탕체*/
+/*
 @font-face { 
   font-family: 'GyeonggiBatang'; 
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
@@ -14,5 +15,19 @@
 body,html{
 height:auto !important;
 font-family:'GyeonggiBatang',sans-serif;
+font-size:15px;
+}*/
+
+/*눈누 상업허용폰트 한수원 한울림체*/
+@font-face { 
+  font-family: 'KHNPHU'; 
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KHNPHU.woff') format('woff'); 
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+body,html{
+height:auto !important;
+font-family:'KHNPHU',sans-serif;
 font-size:15px;
 }
