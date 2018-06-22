@@ -30,11 +30,15 @@
 	background-color: #ffe7f1;
 }
 
+#article-list>.article-list-row.notice {
+    background-color: rgb(224, 204, 255);
+}
 
+/*
 .pagination>li>a:hover {
 	background-color: rgb(224, 204, 255);
 	color: #fff
-}
+}*/
 
 	/*
 #article-list #article-list-category>a
