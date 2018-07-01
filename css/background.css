@@ -2,3 +2,6 @@ html {
     background: url(https://wlswnwlswnbot.github.io/tgd/images/background.png);
     background-size: cover;
 }
+body {
+    background: none;
+}
