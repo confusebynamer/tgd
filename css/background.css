@@ -1,9 +1,10 @@
-html {
+/* 배경 보류 html {
     background: url(https://wlswnwlswnbot.github.io/tgd/images/background.png);
     background-size: cover;
-}
-body {
-    background: none;
+}*/
+
+html {
+    background: linear-gradient(to bottom, #672098, #fc94cf);
 }
 
 header #header-bar > .row, #main .menu-wrapper, #main #main-content > div.frame {
