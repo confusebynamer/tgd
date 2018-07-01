@@ -7,6 +7,10 @@ html {
     background: linear-gradient(to bottom, #672098, #fc94cf);
 }
 
+body {
+    background: none;
+}
+
 header #header-bar > .row, #main .menu-wrapper, #main #main-content > div.frame {
     box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
     
