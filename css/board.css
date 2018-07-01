@@ -36,10 +36,10 @@
 	color: #fff
 }
 
-/*읽은 글 색*/
+/*읽은 글 색
 #article-list>.article-list-row>.item>.list-title>a:visited {
     color: #770088;
-}
+}*/
 
 /*
 #article-list #article-list-category>a
