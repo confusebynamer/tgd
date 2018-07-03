@@ -36,6 +36,12 @@
 	color: #fff
 }
 
+/*공지 글씨 색*/
+#article-list>.article-list-row>.item>.list-header>strong {
+    color: red;
+}
+
+
 /*읽은 글 색
 #article-list>.article-list-row>.item>.list-title>a:visited {
     color: #770088;
