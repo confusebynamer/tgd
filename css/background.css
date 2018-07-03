@@ -39,7 +39,4 @@ header #header-bar>.row {
 }
 
 
-/*공지 글씨 색*/
-#article-list>.article-list-row>.item>.list-header>strong {
-    color: red;
-}
+
