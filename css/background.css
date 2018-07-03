@@ -37,3 +37,9 @@ header #header-bar>.row {
 .fa-search:before {
     color: white;
 }
+
+
+/*공지 글씨 색*/
+#article-list>.article-list-row>.item>.list-header>strong {
+    color: red;
+}
