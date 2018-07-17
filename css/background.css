@@ -8,11 +8,23 @@
 html {
     background: linear-gradient(to bottom, #8951b0, #d980b2);
 }
+*/
 
+/*배경 이미지*/
+html {
+    background-image: url(https://wlswnwlswnbot.github.io/tgd/images/temp_back.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+    background-size: auto;
+}
+
+/*앞배경 제거*/
 body {
     background: none;
-}*/
+}
 
+body {
 header #header-bar > .row, #main .menu-wrapper, #main #main-content > div.frame {
     box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
     
@@ -36,8 +48,9 @@ header #header-bar>.row {
 
 
 /*상단 검색 아이콘*/
+
 .fa-search:before {
-    color: white;
+    color: purple;
 }
 
 
