@@ -16,7 +16,7 @@ html {
     background-repeat: no-repeat;
     background-position: right bottom;
     background-attachment: fixed;
-    background-size: 10%;
+    background-size: auto;
 }
 
 /*앞배경 제거*/
