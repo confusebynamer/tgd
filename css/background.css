@@ -13,7 +13,7 @@ html {
 /*배경 이미지*/
 html {
     background-image: url(https://wlswnwlswnbot.github.io/tgd/images/300.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: right bottom;
     background-attachment: fixed;
     background-size: auto;
