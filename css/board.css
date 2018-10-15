@@ -16,7 +16,7 @@
 
 /*카테고리 줄*/
 #article-list #article-list-category{
-	background:rgb(224, 204, 255);
+/*background:rgb(224, 204, 255);*/
 	border-bottom: 2px solid #6242ad;
 }
 
