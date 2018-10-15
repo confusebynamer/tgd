@@ -41,7 +41,9 @@
     color: red;
 }
 
-
+#article-list>.article-list-row.hot {
+	background-color:#FF99CC;
+}
 /*읽은 글 색
 #article-list>.article-list-row>.item>.list-title>a:visited {
     color: #770088;
