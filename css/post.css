@@ -63,3 +63,10 @@ button, a
   border: 2px solid #FF9797;
   border-radius:20px;
 }
+
+/*베스트 댓글 둥글게*/
+#article-reply-area #reply-best-area div.reply-content 
+{
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
