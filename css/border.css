@@ -80,6 +80,7 @@
 #article-list>.article-list-row>.item>.list-title>.list-writer>span 
 {
   color: #ff9797;
+  font-weight: bold;
 }
 
 /*카테고리 색*/
