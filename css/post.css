@@ -51,8 +51,8 @@ button, a
 }
 
 /*위쪽 둥글게*/
-#article-reply-area #reply-real-area .reply > .reply-header, #article-reply-area #reply-best-area .reply>.reply-header 
+#article-reply-area #reply-real-area .reply, #article-reply-area #reply-best-area .reply 
 {
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border: 2px solid #FF9797;
+  border-radius: 20px;
 }
