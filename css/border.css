@@ -27,6 +27,7 @@
 #article-list #article-list-category
 {
   border-top: 2px solid #ff9797;
+  border-bottom: 2px solid #ff9797;
 }
 
 /*추천수 색*/
