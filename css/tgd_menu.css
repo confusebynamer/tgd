@@ -44,3 +44,17 @@ header #header-bar #header-top-notice strong.notice-badge
 {
   color: #8867c8
 }
+
+/*왼쪽 메뉴 테두리 제거*/
+#main .menu-wrapper 
+{    
+  border-right: none;    
+  border-bottom: none;
+}
+
+/*위 메뉴 테두리 제거*/
+header #header-bar>.row
+{    
+  border-bottom: none;    
+  border-right: none;
+}
