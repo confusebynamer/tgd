@@ -1,18 +1,63 @@
-/*ê¸€ ì œëª© ìƒ‰, í…Œë‘ë¦¬*/
-#article-content-wrapper>.header{
-  background: rgb(224, 204, 255);
+/*°Ô½Ã±Û Å×µÎ¸®*/
+#article-info 
+{
+border-bottom: 2px solid #ff9797;
 }
 
-
-/*ëŒ“ê¸€ ìƒ‰*/
-#article-reply-area #reply-real-area .reply>.reply-header{
-  background: rgb(224, 204, 255);
-  border-bottom: 1px solid #6441a5;
+/*ipÄÚµå*/
+.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small 
+{
+color:black;
 }
 
-/*ëŒ“ê¸€ ì“°ê¸° ë²„íŠ¼*/
-.btn-primary {
-    color: #fff;
-    background-color: #6441a5;
-    border-color: #000;
+/*´ñ±Û °¹¼ö »ö*/
+#article-reply-area > .header h5 
+{
+color: #8867c8;
+}
+
+/*´ñ±Û °³¼ö ¹öÆ°*/
+a 
+{
+color: #8867c8;
+}
+
+/*´ñ±Û ÀÛ¼ºÀÚ(´ñ±Û)*/
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged 
+{
+color: #8867c8
+}
+
+/*´ñ±Û ÀÛ¼ºÀÚ(ºñ·Î±×ÀÎ)*/
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer 
+{
+color: #ff9797;
+font-weight: bold;
+}
+
+/*´ñ±Û ÄÚµå*/
+#article-reply-area #reply-real-area .reply > .reply-header > small.code, #article-reply-area #reply-best-area .reply>.reply-header>small.code 
+{
+color:black;
+}
+
+/*´ñ±Û Å×µÎ¸®*/
+#article-reply-area #reply-real-area .reply, #article-reply-area #reply-best-area .reply 
+{
+border: 2px solid #fc9797;
+border-radius: 20px;
+}
+
+/*À§ÂÊ µÕ±Û°Ô*/
+#article-reply-area #reply-real-area .reply > .reply-header, #article-reply-area #reply-best-area .reply>.reply-header 
+{
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+}
+
+/*º£½ºÆ® ´ñ±Û µÕ±Û°Ô*/
+#article-reply-area #reply-best-area div.reply-content 
+{
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
 }
