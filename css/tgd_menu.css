@@ -1,0 +1,46 @@
+/*메인 윗줄 색*/
+header #header-bar>.row 
+{
+  border-top: 5px solid #ff9797;
+}
+/*트게더 검색 테두리 색*/
+header #right-search-form>input[type=text] 
+{
+  border: 3px solid #ff9797;
+}
+
+/*검색 아이콘 색*/
+.fa-search:before
+{
+  color: #ff9797;
+}
+
+/*복사 색*/
+header #header-bar #header-top-notice strong.notice-badge 
+{
+  background: #ff9797;
+}
+
+/*왼쪽메뉴 색*/
+#main .menu-wrapper>.header 
+{
+  background: #ff9797;
+}
+
+/*왼쪽 메뉴 사이 색*/
+#main .menu-wrapper .spacer
+{
+  background: #ff9797;
+}
+
+/*왼쪽 메뉴 알파벳 색*/
+#main .menu-wrapper>a>em 
+{
+  color: #8867c8;
+}
+
+/*왼쪽 메뉴 사각형색*/
+#main .menu-wrapper>a>i.fa.fa-square 
+{
+  color: #8867c8
+}
