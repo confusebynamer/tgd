@@ -1,46 +1,46 @@
-/*¸Þ´º »ö*/
+/*ë©”ë‰´ ìƒ‰*/
 nav#nav>.nav-header 
 {
 background: #ff9797;
 }
 
-/*¸Þ´º »ö 2*/
+/*ë©”ë‰´ ìƒ‰ 2*/
 nav#nav>#nav-upper>#header-close-bar-link
 {
-background:#8876c8;
+color:#8876c8;
 }
 
-/*¸Þ´º °æ°è¼±*/
+/*ë©”ë‰´ ê²½ê³„ì„ */
 nav#nav > .nav-menu-area hr 
 {
 border-bottom: 1px solid #8876c8;
 }
 
-/*°Ë»ö ¾ÆÀÌÄÜ*/
+/*ê²€ìƒ‰ ì•„ì´ì½˜*/
 header>#header-area>#header-search-link
 {
 color: #ff9797;
 }
 
-/*°Ë»ö È°¼ºÈ­ »ö*/
+/*ê²€ìƒ‰ í™œì„±í™” ìƒ‰*/
 header > #header-search-bar #header-search-btn 
 {
 color: #ff9797;
 }
 
-/*°Ë»ö Å×µÎ¸®*/
+/*ê²€ìƒ‰ í…Œë‘ë¦¬*/
 header > #header-search-bar #header-search-input 
 {
 border: 2px solid #ff9797;
 }
 
-/*Æ®°Ô´õ ¸Þ´º¹öÆ°*/
+/*íŠ¸ê²Œë” ë©”ë‰´ë²„íŠ¼*/
 header > #header-area > #header-bar-link 
 {
 color: #ff9797;
 }
 
-/*±¤°í*/
+/*ê´‘ê³ */
 #header-top-notice strong.notice-badge 
 {
 background: #ff9797;
