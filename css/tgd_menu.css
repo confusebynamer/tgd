@@ -58,3 +58,9 @@ header #header-bar>.row
   border-bottom: none;    
   border-right: none;
 }
+
+/*왼쪽 메뉴 굵기 수정*/
+#main .menu-wrapper>.header 
+{
+  font-weight: normal;
+}
