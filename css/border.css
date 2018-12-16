@@ -96,7 +96,7 @@
 }
 
 /*카테고리 가운데정렬*/
-#article-list #article-list-category > a.active, #article-list #article-list-category>a:hover
+#article-list #article-list-category > a.active
 {
   margin-left:120px;
 }
