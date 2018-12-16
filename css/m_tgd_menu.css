@@ -1,0 +1,17 @@
+/*메뉴 색*/
+nav#nav>.nav-header 
+{
+background: #ff9797;
+}
+
+/*메뉴 색 2*/
+nav#nav>#nav-upper>#header-close-bar-link
+{
+background:#8876c8;
+}
+
+/*메뉴 경계선*/
+nav#nav > .nav-menu-area hr 
+{
+border-bottom: 1px solid #8876c8;
+}
