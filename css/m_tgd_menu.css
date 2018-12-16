@@ -1,0 +1,47 @@
+/*메뉴 색*/
+nav#nav>.nav-header 
+{
+background: #ff9797;
+}
+
+/*메뉴 색 2*/
+nav#nav>#nav-upper>#header-close-bar-link
+{
+background:#8876c8;
+}
+
+/*메뉴 경계선*/
+nav#nav > .nav-menu-area hr 
+{
+border-bottom: 1px solid #8876c8;
+}
+
+/*검색 아이콘*/
+header>#header-area>#header-search-link
+{
+color: #ff9797;
+}
+
+/*검색 활성화 색*/
+header > #header-search-bar #header-search-btn 
+{
+color: #ff9797;
+}
+
+/*검색 테두리*/
+header > #header-search-bar #header-search-input 
+{
+border: 2px solid #ff9797;
+}
+
+/*트게더 메뉴버튼*/
+header > #header-area > #header-bar-link 
+{
+color: #ff9797;
+}
+
+/*광고*/
+#header-top-notice strong.notice-badge 
+{
+background: #ff9797;
+}

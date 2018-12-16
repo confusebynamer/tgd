@@ -1,0 +1,105 @@
+/*경계선*/
+header
+{
+border-bottom: 4px solid #ff9797;
+}
+
+/*프로필*/
+#board-info>h1>a 
+{
+color: #8867c8;
+}
+
+/*프로필 버튼*/
+#board-info>a.board-right-menu
+{
+color: #8867c8;
+}
+
+/*순위*/
+#board-info h1 .badge 
+{
+background-color: #ff9797;
+}
+
+/*카테고리 색*/
+#article-list #article-list-category 
+{
+background: #ffeaea;
+}
+#article-list #article-list-category>a 
+{
+background: #ffeaea;
+}
+
+/*공지사항 색*/
+#article-list>.article-list-row.notice 
+{
+background-color: #ffeaea;
+}
+
+/*인기글 색*/
+#article-list>.article-list-row.hot 
+{
+background-color: #fceeee;
+}
+
+/*추천수 색*/
+#article-list>.article-list-row>.item>.list-header>span 
+{
+background-color: #ff9797;
+}
+
+/*댓글수 색*/
+#article-list>.article-list-row>.item>a.list-title>small.comment-count 
+{
+color: #ff9797;
+}
+
+/*작성자 색(로그인)*/
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span 
+{
+color: #8867c8;
+}
+
+/*작성자 색(비로그인)*/
+#article-list>.article-list-row>.item>a.list-title>.list-writer 
+{
+color: #ff9797;
+font-weight: bold;
+}
+
+/*페이지 번호 색*/
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover 
+{
+    background-color: #ff9797;
+    border-color: #ff9797;
+}
+
+/*게시판 번호 색2(hover)*/
+.pagination>li>a:hover 
+{
+  background-color: #8867c8;
+  border-color: #8867c8;
+  color: white;
+}
+
+/*글쓰기 버튼 색*/
+.btn-primary 
+{
+  background-color: #ff9797;
+  border-color:#ff9797;
+}
+
+/*글쓰기 버튼 색(hover)*/
+.btn-primary:active,.btn-primary:focus,.btn-primary:hover 
+{
+  background-color: #8867c8;
+  border-color:#8867c8;
+}
+
+/*홈버튼 색*/
+a 
+{
+color: #8876c8;
+}
