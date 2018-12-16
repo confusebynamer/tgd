@@ -24,7 +24,7 @@
 }
 
 /*게시판 카테고리 경계선 색*/
-#article-list #article-list-category {
+#article-list #article-list-category
 {
   border-top: 2px solid #ff9797;
 }
