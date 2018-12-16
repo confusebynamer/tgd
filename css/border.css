@@ -39,12 +39,14 @@
 .btn-primary 
 {
   background-color: #ff9797;
+  border-color:#ff9797;
 }
 
 /*글쓰기 버튼 색(hover)*/
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover 
 {
   background-color: #8867c8;
+  border-color:#8867c8;
 }
 
 /*게시판 번호 색(현재페이지)*/
