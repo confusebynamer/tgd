@@ -48,7 +48,7 @@
 }
 
 /*게시판 번호 색*/
-.pagination>li>a,.pagination>li>span
+.pagination>.active>a
 {
   background-color: #ff9797;
   border-color: #ff9797;
