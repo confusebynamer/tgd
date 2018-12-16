@@ -1,4 +1,4 @@
-﻿#board-info #viewers-area #viewers:before {
+#board-info #viewers-area #viewers:before {
     content: "짱구 ";
     cursor: text;
 }
@@ -16,7 +16,7 @@
 #board-info #viewers-area
 {
 color:rgb(0,0,0);
-float:right;
-padding-top: 6px;
+float:none;
+padding-top: 5px;
 padding-right: 4px;
 }
