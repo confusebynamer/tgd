@@ -1,94 +1,109 @@
-/*°æ°è¼±*/
+/*ê²½ê³„ì„ */
 header
 {
 border-bottom: 4px solid #ff9797;
 }
 
-/*°Ë»ö ¾ÆÀÌÄÜ*/
+/*ê²€ìƒ‰ ì•„ì´ì½˜*/
 header>#header-area>#header-search-link
 {
 color: #ff9797;
 }
 
-/*Æ®°Ô´õ ¸Þ´º¹öÆ°*/
+/*íŠ¸ê²Œë” ë©”ë‰´ë²„íŠ¼*/
 header > #header-area > #header-bar-link 
 {
 color: #ff9797;
 }
 
-/*±¤°í*/
+/*ê´‘ê³ */
 #header-top-notice strong.notice-badge 
 {
 background: #ff9797;
 }
 
-/*ÇÁ·ÎÇÊ*/
+/*í”„ë¡œí•„*/
 #board-info>h1>a 
 {
 color: #8867c8;
 }
 
-/*ÇÁ·ÎÇÊ ¹öÆ°*/
+/*í”„ë¡œí•„ ë²„íŠ¼*/
 #board-info>a.board-right-menu
 {
 color: #8867c8;
 }
 
-/*¼øÀ§*/
+/*ìˆœìœ„*/
 #board-info h1 .badge 
 {
 background-color: #ff9797;
 }
 
-/*°øÁö»çÇ× »ö*/
+/*ê³µì§€ì‚¬í•­ ìƒ‰*/
 #article-list>.article-list-row.notice 
 {
 background-color: #ffeaea;
 }
 
 
-/*ÀÎ±â±Û »ö*/
+/*ì¸ê¸°ê¸€ ìƒ‰*/
 #article-list>.article-list-row.hot 
 {
 background-color: #fceeee;
 }
 
-/*ÃßÃµ¼ö »ö*/
+/*ì¶”ì²œìˆ˜ ìƒ‰*/
 #article-list>.article-list-row>.item>.list-header>span 
 {
 background-color: #ff9797;
 }
 
-/*´ñ±Û¼ö »ö*/
+/*ëŒ“ê¸€ìˆ˜ ìƒ‰*/
 #article-list>.article-list-row>.item>a.list-title>small.comment-count 
 {
 color: #ff9797;
 }
 
-/*ÀÛ¼ºÀÚ »ö(·Î±×ÀÎ)*/
+/*ìž‘ì„±ìž ìƒ‰(ë¡œê·¸ì¸)*/
 #article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span 
 {
 color: #8867c8;
 }
 
-/*ÀÛ¼ºÀÚ »ö(ºñ·Î±×ÀÎ)*/
+/*ìž‘ì„±ìž ìƒ‰(ë¹„ë¡œê·¸ì¸)*/
 #article-list>.article-list-row>.item>a.list-title>.list-writer 
 {
-color: #ff9797;
-font-weight: bold;
+  color: #ff9797;
+  font-weight: bold;
 }
 
-/*ÆäÀÌÁö ¹øÈ£ »ö*/
+/*íŽ˜ì´ì§€ ë²ˆí˜¸ ìƒ‰*/
 .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover 
 {
-    background-color: #ff9797;
-    border-color: #ff9797;
+  background-color: #ff9797;
+  border-color: #ff9797;
 }
 
-/*°Ô½ÃÆÇ ¹øÈ£ »ö2(hover)*/
+/*ê²Œì‹œíŒ ë²ˆí˜¸ ìƒ‰2(hover)*/
 .pagination>li>a:hover 
 {
   background-color: #8867c8;
   border-color: #8867c8;
   color: white;
 }
+
+/*ê¸€ì“°ê¸° ë²„íŠ¼ ìƒ‰*/
+.btn-primary 
+{
+  background-color: #ff9797;
+  border-color:#ff9797;
+}
+
+/*ê¸€ì“°ê¸° ë²„íŠ¼ ìƒ‰(hover)*/
+.btn-primary:active,.btn-primary:focus,.btn-primary:hover 
+{
+  background-color: #8867c8;
+  border-color:#8867c8;
+}
+
