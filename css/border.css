@@ -95,12 +95,6 @@
   background: #ffeaea;
 }
 
-/*카테고리 가운데정렬*/
-#article-list #article-list-menu 
-{
-  margin-left:140px;
-}  
-
 /*공지사항 배경색*/
 #article-list>.article-list-row.notice
 {
