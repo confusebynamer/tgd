@@ -32,6 +32,12 @@ background: #ffeaea;
 background: #ffeaea;
 }
 
+/*테스트*/
+#article-list #article-list-category > a.active, #article-list #article-list-category>a:hover 
+{
+    margin-top: -1px;
+}
+
 /*공지사항 색*/
 #article-list>.article-list-row.notice 
 {
