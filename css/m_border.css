@@ -32,10 +32,10 @@ background: #ffeaea;
 background: #ffeaea;
 }
 
-/*테스트*/
+/*카테고리 선택 위 공백 없애기*/
 #article-list #article-list-category > a.active, #article-list #article-list-category>a:hover 
 {
-    margin-top: -1px;
+    margin-top: -2px;
 }
 
 /*공지사항 색*/
