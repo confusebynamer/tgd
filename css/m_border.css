@@ -107,5 +107,5 @@ color: #8876c8;
 /*하트*/
 #article-list>.article-list-row>.item>.list-title>small.favo 
 {
-  color:pink;
+  color:pink !important;
 }
