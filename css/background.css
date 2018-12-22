@@ -1,11 +1,32 @@
-/*배경 이미지*/
+/*배경 이미지
 html {
     background-image: url(https://wlswnwlswnbot.github.io/tgd/images/temp_back.jpg);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-attachment: fixed;
     background-size: auto;
+}*/
+
+html
+{
+    background-color: #000;
+    background-image: url(https://wlswnwlswnbot.github.io/tgd/images/hand1.png),url(https://wlswnwlswnbot.github.io/tgd/images/hand3.png);
+    animation: drop 20s linear infinite;
 }
+
+@keyframes drop
+{
+    0% 
+    {
+        background-position: 0 0,0 0,0 0;
+    }
+    100% 
+    {
+        background-position: 500px 1000px,400px 400px,300px 300px;
+    }
+}
+    
+
 
 /*앞배경 제거*/
 body {
