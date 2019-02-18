@@ -13,7 +13,7 @@ color: #8867c8;
 /*프로필 하단 여백 제거*/
 #board-info>h1
 {
-    border:none;
+    padding:0.45em;
 }
 
 /*프로필 버튼*/
