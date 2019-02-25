@@ -32,7 +32,7 @@ img[alt="JKanStyle"], #article-content-wrapper #article-content img[alt="JKanSty
 
 
 /*이모티콘 설정*/
-span[data-param1="OptimizePirme"] img 
+span[data-param1="OptimizePrime"] img 
 {
     background: url(https://wlswnwlswnbot.github.io/tgd/images/con_2.png);
     width: 28px;
@@ -40,7 +40,7 @@ span[data-param1="OptimizePirme"] img
     background-size: 28px 28px;
 }
 /*댓글 내 이모티콘*/
-img[alt="OptimizePirme"], #article-content-wrapper #article-content img[alt="OptimizePirme"] {
+img[alt="OptimizePrime"], #article-content-wrapper #article-content img[alt="OptimizePrime"] {
     background: url(https://wlswnwlswnbot.github.io/tgd/images/con_2.png);
     width: 100px;
     height: 100px !important;
