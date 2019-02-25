@@ -1,0 +1,90 @@
+/*이모티콘 크기 증가*/
+.fr-popup .fr-emoticon img
+{
+	height : 28px;
+}
+
+/*이모티콘 공간 크기*/
+.fr-popup .fr-emoticon 
+{
+	font-size:30px;
+	width:28px;
+}
+
+
+/*이모티콘 설정*/
+span[data-param1="JKanStyle"] img 
+{
+	background: url(https://wlswnwlswnbot.github.io/tgd/images/con_1.png);
+	width: 28px;
+	padding-left: 28px;
+	background-size: 28px 28px;
+}
+/*댓글 내 이모티콘*/
+img[alt="JKanStyle"], #article-content-wrapper #article-content img[alt="JKanStyle"] {
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_1.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+
+
+/*이모티콘 설정*/
+span[data-param1="OptimizePirme"] img 
+{
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_2.png);
+    width: 28px;
+    padding-left: 28px;
+    background-size: 28px 28px;
+}
+/*댓글 내 이모티콘*/
+img[alt="OptimizePirme"], #article-content-wrapper #article-content img[alt="OptimizePirme"] {
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_2.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+
+
+
+/*이모티콘 설정*/
+span[data-param1="StoneLightning"] img 
+{
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_3.png);
+    width: 28px;
+    padding-left: 28px;
+    background-size: 28px 28px;
+}
+/*댓글 내 이모티콘*/
+img[alt="StoneLightning"], #article-content-wrapper #article-content img[alt="StoneLightning"] 
+{
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_3.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
+
+
+
+/*이모티콘 설정*/
+span[data-param1="TheRinger"] img 
+{
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_4.png);
+    width: 28px;
+    padding-left: 28px;
+    background-size: 28px 28px;
+}
+/*댓글 내 이모티콘*/
+img[alt="TheRinger"], #article-content-wrapper #article-content img[alt="TheRinger"] 
+{
+    background: url(https://wlswnwlswnbot.github.io/tgd/images/con_4.png);
+    width: 100px;
+    height: 100px !important;
+    padding-left: 100px;
+    background-size: 100px 100px;
+}
